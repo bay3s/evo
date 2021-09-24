@@ -6,7 +6,7 @@ import os
 
 from setuptools import find_packages, setup
 
-NAME = 'nevo'
+NAME = 'evo'
 VERSION = '0.0.1'
 AUTHOR = 'Sid Chaubal'
 AUTHOR_EMAIL = 's.p.chaubal@student.vu.nl'
@@ -34,7 +34,7 @@ setup(
   py_modules = ['pydoku'],
   entry_points = {
     'console_scripts': [
-      'NEVO = nevo.cli:interpret'
+      'evo = evo.cli:interpret'
     ]
   },
   install_requires = REQUIRED,

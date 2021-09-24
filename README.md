@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/1bayezian/nevo">
-    <img src="/images/logo.png" alt="nevo" width="125" />
+    <img src="/images/logo.png" alt="evo" width="125" />
   </a>
 </p>
-<h3 align="center">nevo</h3>
+<h3 align="center">evo</h3>
 <p align="center">
   A neuroevolution framework for training agents on OpenAI Gym.
 </p>
@@ -26,22 +26,22 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [p
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1bayezian/nevo
+$ git clone https://github.com/1bayezian/evo
 
 # Go into the repository
-$ cd nevo
+$ cd evo
 
 # Install CLI tool and dependencies
 $ pip3 install .
 
 # Run the help command
-$ nevo --help
+$ evo --help
 ```
 
 ## Usage
 
 ##### Sample Usage
 ```
-  NEVO --mode=TRAIN --epochs=10000 --env=CartPole-v0 --new=TRUE 
-  NEVO --mode=TEST --epochs=10 --model=~/Users/models/trained.model
+  evo --mode=TRAIN --epochs=10000 --env=CartPole-v0 --new=TRUE 
+  evo --mode=TEST --epochs=10 --model=~/Users/models/trained.model
 ```
