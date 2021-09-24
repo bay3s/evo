@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">nevo</h3>
 <p align="center">
-  A SAT Solver, that will make you smile.
+  A neuroevolution framework for training agents on OpenAI Gym.
 </p>
 
 ## Table of Contents
