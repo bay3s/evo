@@ -16,7 +16,7 @@
 
 ## Key Features
 
-* A simple command line interface (CLI) to develop Game AI with neuroevolution.
+* A simple command line interface (CLI) to train and test game AI developed with neuroevolution on Open AI gym.
 * Cross platform
   - Windows, macOS and Linux ready.
 
